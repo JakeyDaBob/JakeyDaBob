@@ -1,12 +1,12 @@
-Hey I'm some gronk from Australia called 'JakeyDaBob', stay a while :)
-
+## Jake Matchett - Australia
+### Software Developer
 Completed Projects:
-  - Haha O-O
+  - Cune (Best game ever, get on itch.io)
 
 Current Projects:
-  - Dabob.lol
+  - Bean Kart
   
-Future Projects:
+Future Projects (When I was like 12):
   - Qualia
   - Cune
   - Retro Haze
